@@ -37,10 +37,10 @@ translate({
 
 ## Bug
 
-Please report them in [Issue](#).
+Please report them in [Issue](https://github.com/jimmyruann/html-attribute-react/issues).
 
 Contribution are welcomed.
 
 ## License
 
-[MIT](#)
+[MIT](https://github.com/jimmyruann/html-attribute-react/LICENSE)
