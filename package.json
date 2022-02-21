@@ -4,6 +4,7 @@
   "main": "dist/index.js",
   "author": "Jimmy Ruan",
   "license": "MIT",
+  "homepage": "https://github.com/jimmyruann/html-attribute-react",
   "dependencies": {
     "typescript": "^4.5.5"
   },
